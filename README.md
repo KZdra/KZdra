@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KZdra
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C . C++ ,HTML,CSS,JS,PYTHON
+- 😒 Bored By GDevelop
 - 💞️ I’m looking to collaborate on IDK :)
 - 📫 How to reach me DISCORD ME:Indra#9930
 

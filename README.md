@@ -12,7 +12,7 @@
   </a>
     <h1>
   Hellow
-  <img src="https://media1.tenor.com/m/CU-PX1m0egYAAAAC/wave-hi.gif" width="30px"/>
+ 👋 ,
     I'm Indra  
 </h1>
 </div>

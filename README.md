@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![WhatsApp Image 2024-05-22 at 12 47 26](https://github.com/KZdra/KZdra/assets/92752408/0af63fb6-7cc6-4ef3-8179-f2eaf615ac64)
+<img src="https://github.com/KZdra/KZdra/assets/92752408/0af63fb6-7cc6-4ef3-8179-f2eaf615ac64">
 
   <div id="badges">
   <a href="#">

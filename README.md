@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm55d2VqOWY2ZGxnOGV3cWo3OXcxOTlvZWN0YXpnZnBiMDloM3U0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sE1fbQPozKg3q5I2W2/giphy.gif" width="200"/>
+![WhatsApp Image 2024-05-22 at 12 47 26](https://github.com/KZdra/KZdra/assets/92752408/0af63fb6-7cc6-4ef3-8179-f2eaf615ac64)
+
   <div id="badges">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

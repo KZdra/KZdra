@@ -51,6 +51,16 @@
 </div>
 
 ---
+---
+
+### :hammer_and_wrench: Fav Operating Systems :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"   width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"  width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"  width="40" height="40"/>&nbsp;
+</div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=KZdra&theme=holi-theme&hide_border=true&border_radius=5.3&mode=weekly)](https://git.io/streak-stats)

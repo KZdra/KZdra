@@ -2,15 +2,6 @@
 <img src="https://github.com/KZdra/KZdra/assets/92752408/0af63fb6-7cc6-4ef3-8179-f2eaf615ac64">
 
   <div id="badges">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
     <h1>
   Hellow
  👋 ,
@@ -18,9 +9,7 @@
 </h1>
 </div>
 </div>
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA2bTBjYXZsM3Vrb2RvY3puZWt5dnM0ZTIzOXp1eXAyZzI2bmxqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e7C2wQpE2UwvqZCdzh/giphy.gif" width="500" height="200"/>
-</div>
+
 
 ---
 

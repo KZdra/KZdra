@@ -1,12 +1,13 @@
 <div id="header" align="center">
-<img src="https://github.com/KZdra/KZdra/assets/92752408/0af63fb6-7cc6-4ef3-8179-f2eaf615ac64">
-
-  <div id="badges">
     <h1>
   Hellow
  👋 ,
     I'm Indra  
 </h1>
+<img src="https://github.com/KZdra/KZdra/assets/92752408/0af63fb6-7cc6-4ef3-8179-f2eaf615ac64">
+
+  <div id="badges">
+  
 </div>
 </div>
 

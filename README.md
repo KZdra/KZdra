@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: About Me :
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I'm a student at ICB Cinta Teknika Vocational High School
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I'm a student at ICB Cinta Teknika Vocational High School (Im Done with This School)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
